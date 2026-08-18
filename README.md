@@ -8,7 +8,10 @@
 * Визуализация: **Встроенные графики GitHub (Mermaid)**
 
 ## 📊 Распределение выручки
-<img width="593" height="351" alt="image" src="https://github.com/user-attachments/assets/fcf5535e-c916-4815-895f-acff8278c6f1" />
+Обсяги реалізації позицій меню
+<img width="605" height="347" alt="image" src="https://github.com/user-attachments/assets/c5897645-5090-4ac1-99c0-f22e47d32f79" />
+
+
 
 
 
@@ -30,5 +33,5 @@ pie title Выручка по товарам ($)
 
 ## 🚀 Рекомендации для бизнеса
 * Ввести акционное утреннее комбо: **"Латте + Круассан"**. Это объединит две самые прибыльные позиции и заставит покупателей кофе чаще брать выпечку, увеличивая средний чек.
-* <img width="612" height="425" alt="image" src="https://github.com/user-attachments/assets/d7d771bf-317a-413a-9637-46a77ddede9b" />
+<img width="607" height="410" alt="image" src="https://github.com/user-attachments/assets/5f87e4ff-46aa-4de5-8969-14e2513fa4f9" />
 
